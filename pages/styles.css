@@ -413,3 +413,10 @@ textarea {
         transform: rotate(360deg);
     }
 }
+
+.slider-container{
+    color: #fff;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
